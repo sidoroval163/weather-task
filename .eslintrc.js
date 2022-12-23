@@ -33,6 +33,7 @@ module.exports = {
   rules: {
     'array-callback-return': 'warn',
     '@typescript-eslint/camelcase': 'off',
+    camelcase: 'off',
     'class-methods-use-this': 'warn',
     'consistent-return': 'off',
     'global-require': 'warn',
