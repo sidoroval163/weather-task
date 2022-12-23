@@ -1,2 +1,1 @@
-# weather-task
-weather-task
+Weather App
